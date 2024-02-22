@@ -15,3 +15,7 @@
 13. **Shopping List App** - https://github.com/crest-0375/ShoppingListApp
 14. **Music App** - https://github.com/crest-0375/MusicApp
 15. **Recipe App** - https://github.com/crest-0375/RecipeApp
+16. **ViewModel** - https://github.com/crest-0375/ViewModel
+17. **Retrofit** - https://github.com/crest-0375/Retrofit
+18. **ImageLoader** - https://github.com/crest-0375/ImageLoader
+19. **CoroutinesRoom** - https://github.com/crest-0375/CoroutinesRoom
