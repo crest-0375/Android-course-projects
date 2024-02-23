@@ -19,3 +19,4 @@
 17. **Retrofit** - https://github.com/crest-0375/Retrofit
 18. **ImageLoader** - https://github.com/crest-0375/ImageLoader
 19. **CoroutinesRoom** - https://github.com/crest-0375/RoomCoroutines
+20. **News App** - https://github.com/crest-0375/NewsApp
