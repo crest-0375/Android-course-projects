@@ -7,7 +7,7 @@
 5. **Weather App** - https://github.com/crest-0375/WeatherApp
 6. **Drawing App** - https://github.com/crest-0375/DrawingApp
 7. **Calculator App** - https://github.com/crest-0375/Calculator
-8. **Age calculator App** - https://github.com/crest-0375/AgeCalculator
+8. **Age calculator App** - https://github.com/crest-0375/Age-Calculator
 9. **Text to speech App** - https://github.com/crest-0375/TextToSpeech
 10. **Permission App** - https://github.com/crest-0375/PermissionApp.
 11. **WishList App** - https://github.com/crest-0375/WishListApp
