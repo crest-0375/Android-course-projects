@@ -19,6 +19,7 @@
 15. **News App** - https://github.com/crest-0375/NewsApp
 16. **PeaceMate** - https://github.com/crest-0375/PeaceMate
 17. **Colorly** - https://github.com/crest-0375/Colorly
+18. **Quotes App** - https://github.com/crest-0375/QuotesApp
 
 ---
 # Feature based learning
