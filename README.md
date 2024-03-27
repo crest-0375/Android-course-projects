@@ -32,6 +32,7 @@
 6. **Notification** - https://github.com/crest-0375/Notification
 7. **Translator** - https://github.com/crest-0375/Translation
 8. **States In Jetpack Compose** - https://github.com/crest-0375/StateInJetpack
+9. **PageTurn** - https://github.com/crest-0375/PageTurn
 
 ---
 # Architecture based learning
