@@ -33,6 +33,8 @@
 7. **Translator** - https://github.com/crest-0375/Translation
 8. **States In Jetpack Compose** - https://github.com/crest-0375/StateInJetpack
 9. **PageTurn** - https://github.com/crest-0375/PageTurn
+10. **FireBase** - https://github.com/crest-0375/FirebaseApp
+11. **Permissions** - https://github.com/crest-0375/PermissionApp
 
 ---
 # Architecture based learning
