@@ -31,6 +31,7 @@
 5. **Doucment Scanner** - https://github.com/crest-0375/Scanner
 6. **Notification** - https://github.com/crest-0375/Notification
 7. **Translator** - https://github.com/crest-0375/Translation
+8. **States In Jetpack Compose** - https://github.com/crest-0375/StateInJetpack
 
 ---
 # Architecture based learning
