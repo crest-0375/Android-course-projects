@@ -45,3 +45,6 @@
 2. **Coroutines** - https://github.com/crest-0375/Coroutines-learning
 3. **Channels** - https://github.com/crest-0375/Channels-learning
 4. **CoroutinesRoom** - https://github.com/crest-0375/RoomCoroutines
+5. **Dagger with MVVM** - https://github.com/crest-0375/DaggerMVVM
+6. **Hilt** - https://github.com/crest-0375/Hilt
+7. **Dependency Injection** - https://github.com/crest-0375/Dependency-Injection
